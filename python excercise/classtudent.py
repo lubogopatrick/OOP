@@ -9,5 +9,5 @@ class Student:
 student1 = Student("RegS23B13/O30","Lubogo Patrick" )
 print(student1)
 
-student 2 = student("RegS23B13/001","Ade Amos")
+student2 = Student("RegS23B13/001","Ade Amos")
 print(student2)
